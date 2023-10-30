@@ -21,7 +21,7 @@ I started learning to code at the age of 22 while in my final year of a non-IT-r
 <a href="https://instagram.com/vietthg__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vietthg__" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiiamken" alt="hiiamken" /></a> </p>
+<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3)"><img src="https://github-profile-trophy.vercel.app/?username=hiiamken" alt="hiiamken" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiiamken&show_icons=true&locale=en&layout=compact" alt="hiiamken" /></p>
 
