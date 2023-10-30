@@ -2,6 +2,15 @@
 <h1 align="center">Xin chao 👋, I'm Thuong Tr</h1>
 <h3 align="center">A newbie coder from Viet Nam</h3>
 
+<p align="center">
+<br>
+<a href="https://www.facebook.com/thuongkennnn"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://instagram.com/vietthg__"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="mailto:trvietthuong@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+</p>
+
+
 I started learning to code at the age of 22 while in my final year of a non-IT-related major. Despite having limited experience and trailing behind many younger peers, I will still strive every day to become a proficient Software Engineer.
 
 - 🌍 I'm based in Vietnam
@@ -12,19 +21,34 @@ I started learning to code at the age of 22 while in my final year of a non-IT-r
 
 - ⚡ Why am I learning to code? **Minecraft Plugins**
 
-<h3 align="left">Skills:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Socials:</h3>
-<p align="left">
-<a href="https://fb.com/thuongkennnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thuongkennnn" height="30" width="40" /></a>
-<a href="https://instagram.com/vietthg__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vietthg__" height="30" width="40" /></a>
-</p>
+## 🔧 Technologies & Tools
 
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3)"><img src="https://github-profile-trophy.vercel.app/?username=hiiamken" alt="hiiamken" /></a> </p>
+**Cloud Services:**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiiamken&show_icons=true&locale=en&layout=compact" alt="hiiamken" /></p>
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiiamken&show_icons=true&locale=en" alt="hiiamken" /></p>
+**Tools and Services:**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiiamken&" alt="hiiamken" /></p>
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+
+**Programming Languages:**
+
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/hiiamken/hiiamken">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiiamken&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="HiImKen's GitHub Stats" />
+</a>
+
+<a href="https://github.com/hiiamken/hiiamken">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiiamken&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="HiImKen's GitHub Stats" />
+</a> 
