@@ -41,8 +41,7 @@ I started learning to code at the age of 22 while in my final year of a non-IT-r
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=hiiamken&theme=discord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/hiiamken/hiiamken">
