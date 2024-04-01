@@ -10,7 +10,6 @@
 </p>
 
 
-I started learning to code at the age of 22 while in my final year of a non-IT-related major. Despite having limited experience and trailing behind many younger peers, I will still strive every day to become a proficient Software Engineer.
 
 - 🌍 I'm based in Vietnam
 
