@@ -13,7 +13,7 @@
 
 - 🌍 I'm based in Vietnam
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java**, **JavaScript** and **Python**
 
 - ✉️ You can contact me at **trvietthuong@gmail.com**
 
